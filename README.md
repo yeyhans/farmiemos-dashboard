@@ -1,0 +1,1 @@
+Proyecto simple realizado con un template de ASTRO y se le agrego autetificacion con firebase
